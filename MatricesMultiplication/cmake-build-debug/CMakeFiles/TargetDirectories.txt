@@ -1,0 +1,3 @@
+C:/Users/Stiaan/CLionProjects/MatricesMultiplication/cmake-build-debug/CMakeFiles/MatricesMultiplication.dir
+C:/Users/Stiaan/CLionProjects/MatricesMultiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stiaan/CLionProjects/MatricesMultiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
